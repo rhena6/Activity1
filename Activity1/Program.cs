@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Calculator in C# Functions");
+        Console.WriteLine("Simple Calculator in C# Functions");
 
         // Get user input
         Console.Write("Enter the first number: ");
